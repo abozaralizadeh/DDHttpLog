@@ -1,0 +1,683 @@
+Statistics for the time period starting at 2019-02-07 22:10:59 :
+Total number of calls: 78
+The most hit section is api, with the total number of 52
+Errors:
+Http error 404  in the following requests:
+('GET /api/help HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('POST /report HTTP/1.0', 1)
+('GET /api/help HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:09 :
+Total number of calls: 93
+The most hit section is api, with the total number of 62
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 3)
+('GET /api/help HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/help HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:19 :
+Total number of calls: 89
+The most hit section is api, with the total number of 59
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 6)
+('GET /api/user HTTP/1.0', 3)
+('POST /report HTTP/1.0', 1)
+('GET /api/help HTTP/1.0', 1)
+('POST /api/help HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+('GET /report HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+('POST /api/help HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:29 :
+Total number of calls: 94
+The most hit section is api, with the total number of 63
+Errors:
+Http error 404  in the following requests:
+('GET /api/help HTTP/1.0', 5)
+('GET /report HTTP/1.0', 5)
+('POST /api/user HTTP/1.0', 3)
+('POST /api/help HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('POST /report HTTP/1.0', 2)
+('GET /report HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+('GET /api/help HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:39 :
+Total number of calls: 89
+The most hit section is api, with the total number of 59
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 3)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:49 :
+Total number of calls: 89
+The most hit section is api, with the total number of 60
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 1)
+('POST /api/help HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:11:59 :
+Total number of calls: 172
+The most hit section is api, with the total number of 143
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 8)
+('GET /api/help HTTP/1.0', 5)
+('POST /api/user HTTP/1.0', 2)
+('GET /report HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 2)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 11)
+('POST /api/user HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 3)
+('GET /report HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:12:09 :
+Total number of calls: 178
+The most hit section is api, with the total number of 147
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 4)
+('GET /api/user HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 10)
+('GET /api/help HTTP/1.0', 5)
+('GET /report HTTP/1.0', 3)
+('POST /api/help HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:12:19 :
+Total number of calls: 181
+The most hit section is api, with the total number of 152
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 8)
+('GET /api/help HTTP/1.0', 4)
+('POST /api/user HTTP/1.0', 3)
+('GET /report HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 10)
+('GET /api/help HTTP/1.0', 8)
+('POST /api/user HTTP/1.0', 4)
+('GET /report HTTP/1.0', 2)
+('POST /report HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+
+
+High traffic generated an alert - hits = 1200, triggered at 2019-02-07 22:12:36
+
+Statistics for the time period starting at 2019-02-07 22:12:29 :
+Total number of calls: 182
+The most hit section is api, with the total number of 150
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 8)
+('GET /report HTTP/1.0', 6)
+('GET /api/help HTTP/1.0', 5)
+('POST /api/help HTTP/1.0', 5)
+('POST /api/user HTTP/1.0', 4)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 6)
+('GET /api/help HTTP/1.0', 3)
+('GET /report HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:12:39 :
+Total number of calls: 178
+The most hit section is api, with the total number of 150
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 2)
+('POST /report HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 7)
+('GET /report HTTP/1.0', 7)
+('POST /api/user HTTP/1.0', 6)
+('POST /api/help HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 3)
+
+
+Statistics for the time period starting at 2019-02-07 22:12:49 :
+Total number of calls: 178
+The most hit section is api, with the total number of 147
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 5)
+('GET /api/help HTTP/1.0', 5)
+('POST /api/user HTTP/1.0', 5)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 8)
+('GET /api/help HTTP/1.0', 6)
+('POST /api/user HTTP/1.0', 5)
+('GET /report HTTP/1.0', 3)
+('POST /api/help HTTP/1.0', 2)
+('POST /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:12:59 :
+Total number of calls: 46
+The most hit section is api, with the total number of 34
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+('POST /report HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:13:09 :
+Total number of calls: 30
+The most hit section is api, with the total number of 20
+Errors:
+Http error 404  in the following requests:
+('POST /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:13:19 :
+Total number of calls: 29
+The most hit section is api, with the total number of 19
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:13:29 :
+Total number of calls: 32
+The most hit section is api, with the total number of 21
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 6)
+
+
+Statistics for the time period starting at 2019-02-07 22:13:39 :
+Total number of calls: 29
+The most hit section is api, with the total number of 20
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:13:49 :
+Total number of calls: 30
+The most hit section is api, with the total number of 21
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Alert recovered
+
+High traffic generated an alert - hits = 1200, triggered at 2019-02-07 22:14:04
+
+Alert recovered
+
+Statistics for the time period starting at 2019-02-07 22:13:59 :
+Total number of calls: 29
+The most hit section is api, with the total number of 18
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 3)
+('GET /api/user HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:09 :
+Total number of calls: 32
+The most hit section is api, with the total number of 22
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('POST /report HTTP/1.0', 2)
+('GET /report HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:19 :
+Total number of calls: 27
+The most hit section is api, with the total number of 18
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('POST /api/user HTTP/1.0', 3)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:29 :
+Total number of calls: 31
+The most hit section is api, with the total number of 20
+Errors:
+Http error 404  in the following requests:
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:39 :
+Total number of calls: 30
+The most hit section is api, with the total number of 20
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:49 :
+Total number of calls: 31
+The most hit section is api, with the total number of 21
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:14:59 :
+Total number of calls: 29
+The most hit section is api, with the total number of 19
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 3)
+('GET /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+
+
+Statistics for the time period starting at 2019-02-07 22:15:09 :
+Total number of calls: 31
+The most hit section is api, with the total number of 21
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:15:19 :
+Total number of calls: 32
+The most hit section is api, with the total number of 22
+Errors:
+Http error 404  in the following requests:
+('POST /api/user HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 2)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 4)
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:15:29 :
+Total number of calls: 249
+The most hit section is api, with the total number of 222
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 14)
+('GET /report HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 13)
+('POST /api/user HTTP/1.0', 7)
+('GET /api/help HTTP/1.0', 6)
+('GET /report HTTP/1.0', 2)
+('POST /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:15:39 :
+Total number of calls: 283
+The most hit section is api, with the total number of 252
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 11)
+('POST /api/user HTTP/1.0', 5)
+('GET /report HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 3)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 14)
+('GET /api/help HTTP/1.0', 7)
+('GET /report HTTP/1.0', 7)
+('POST /api/user HTTP/1.0', 6)
+('POST /api/help HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:15:49 :
+Total number of calls: 279
+The most hit section is api, with the total number of 250
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 13)
+('GET /api/help HTTP/1.0', 8)
+('POST /api/user HTTP/1.0', 6)
+('GET /report HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 11)
+('POST /api/user HTTP/1.0', 5)
+('POST /api/help HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 4)
+('GET /report HTTP/1.0', 2)
+
+
+High traffic generated an alert - hits = 1200, triggered at 2019-02-07 22:16:03
+
+Statistics for the time period starting at 2019-02-07 22:15:59 :
+Total number of calls: 280
+The most hit section is api, with the total number of 250
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 8)
+('POST /api/user HTTP/1.0', 8)
+('GET /api/help HTTP/1.0', 3)
+('GET /report HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 14)
+('POST /api/user HTTP/1.0', 8)
+('GET /api/help HTTP/1.0', 3)
+('POST /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:09 :
+Total number of calls: 284
+The most hit section is api, with the total number of 253
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 17)
+('POST /api/user HTTP/1.0', 5)
+('GET /api/help HTTP/1.0', 5)
+('POST /api/help HTTP/1.0', 2)
+('GET /report HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 15)
+('GET /api/help HTTP/1.0', 5)
+('POST /api/user HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:19 :
+Total number of calls: 279
+The most hit section is api, with the total number of 248
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 10)
+('GET /api/help HTTP/1.0', 7)
+('POST /api/user HTTP/1.0', 5)
+('POST /api/help HTTP/1.0', 2)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 19)
+('GET /report HTTP/1.0', 4)
+('GET /api/help HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:29 :
+Total number of calls: 278
+The most hit section is api, with the total number of 251
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 10)
+('POST /api/user HTTP/1.0', 5)
+('GET /api/help HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 2)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 14)
+('POST /api/user HTTP/1.0', 4)
+('POST /api/help HTTP/1.0', 2)
+('GET /api/help HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:39 :
+Total number of calls: 282
+The most hit section is api, with the total number of 250
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 15)
+('POST /api/user HTTP/1.0', 6)
+('GET /api/help HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 17)
+('POST /api/user HTTP/1.0', 7)
+('GET /report HTTP/1.0', 3)
+('GET /api/help HTTP/1.0', 2)
+('POST /api/help HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:49 :
+Total number of calls: 281
+The most hit section is api, with the total number of 250
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 9)
+('POST /report HTTP/1.0', 5)
+('GET /api/help HTTP/1.0', 3)
+('POST /api/user HTTP/1.0', 3)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 15)
+('POST /api/help HTTP/1.0', 3)
+('GET /api/help HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:16:59 :
+Total number of calls: 44
+The most hit section is api, with the total number of 33
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 3)
+('GET /api/help HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:09 :
+Total number of calls: 21
+The most hit section is report, with the total number of 11
+Errors:
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:19 :
+Total number of calls: 19
+The most hit section is report, with the total number of 10
+Errors:
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:29 :
+Total number of calls: 19
+The most hit section is api, with the total number of 10
+Errors:
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:39 :
+Total number of calls: 22
+The most hit section is api, with the total number of 11
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+('POST /api/user HTTP/1.0', 2)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:49 :
+Total number of calls: 19
+The most hit section is api, with the total number of 10
+Errors:
+Http error 404  in the following requests:
+('GET /api/user HTTP/1.0', 4)
+('POST /api/user HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:17:59 :
+Total number of calls: 18
+The most hit section is api, with the total number of 9
+Errors:
+Http error 404  in the following requests:
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:18:09 :
+Total number of calls: 22
+The most hit section is api, with the total number of 11
+Errors:
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 1)
+('POST /report HTTP/1.0', 1)
+
+
+Alert recovered
+
+Statistics for the time period starting at 2019-02-07 22:18:19 :
+Total number of calls: 19
+The most hit section is api, with the total number of 10
+Errors:
+Http error 404  in the following requests:
+('GET /report HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+('GET /report HTTP/1.0', 1)
+('POST /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:18:29 :
+Total number of calls: 20
+The most hit section is report, with the total number of 10
+Errors:
+Http error 404  in the following requests:
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 1)
+('GET /api/user HTTP/1.0', 1)
+
+
+Statistics for the time period starting at 2019-02-07 22:18:39 :
+Total number of calls: 22
+The most hit section is report, with the total number of 12
+Errors:
+Http error 404  in the following requests:
+('POST /api/user HTTP/1.0', 1)
+Http error 500  in the following requests:
+('GET /report HTTP/1.0', 2)
+('GET /api/user HTTP/1.0', 2)
+('POST /report HTTP/1.0', 1)
+
+
