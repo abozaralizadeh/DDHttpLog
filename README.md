@@ -1,6 +1,6 @@
 
 
-#HttpLogMonitoring
+# HttpLogMonitoring
 Simple Python console app to read http log files and produce statistics and alerts.
 
 
@@ -12,26 +12,28 @@ using homebrew on Mac:
 ```sh
 > brew install python
 ```
-using chocholatory on Windows:
+using Chocolatey on Windows:
 ```sh
 > choco install python
 ```
 using apt-get on Ubuntu:
 ```sh
-> sudo apt-get install python
+> sudo apt-get install python3 python-is-python3
 ```
 ### Run the console app
 
 ```sh
-> cd HttpLogMonitoring
+> cd DDHttpLog
 > python http_log_monitoring.py LOG_FILE.csv
 ```
-* the csv file should be passed as the last argument
+* the csv file should be passed as the first argument
 ### Run the tests
 ```sh
-> cd HttpLogMonitoring
+> cd DDHttpLog
 > python tests.py
 ```
+* results.txt was generated in the UTC+1 (CET) time zone, so the tests only pass in that zone,
+e.g. on Linux or Mac: `TZ=Europe/Rome python tests.py`
 
 ## How to improve
 
@@ -47,4 +49,4 @@ alerts or aggregated statistic to provide better options for post analysis
 instead of the printing results in standard io.
 
 
-© [Abozar Alizadeh](abozar.alizadeh@gmail.com)
+© [Abozar Alizadeh](mailto:abozar.alizadeh@gmail.com)
